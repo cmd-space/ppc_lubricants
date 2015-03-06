@@ -30,6 +30,9 @@ body{
 		vertical-align: top;
 		margin-top: 2rem;
 	}
+	#header span{
+		font-weight: bold;
+	}
 	#nav{
 		background: linear-gradient(Gainsboro, white);
 		width: 1022px;
