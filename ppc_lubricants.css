@@ -61,12 +61,12 @@ body{
 	height: 580px;
 	background: linear-gradient(to right, black, gray, black);
 }
-	#about img,
+	#ppc-hq,
 	#top-box{
 		display: inline-block;
 		vertical-align: top;
 	}
-	#about img{
+	#ppc-hq{
 		margin-top: 15px;
 		margin-left: 37px;
 	}
@@ -106,4 +106,16 @@ body{
 	}
 	#top-box span{
 		font-weight: bold;
+	}
+	#tiny-logo{
+		display: inline;
+		padding-left: 48px;
+		margin-top: 15px;
+	}
+	#bulk{
+		display: inline;
+		margin-left: 10px;
+		color: gold;
+		font-size: 10px;
+		line-height: 12px;
 	}
